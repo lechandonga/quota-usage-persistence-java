@@ -37,3 +37,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### 本地 H2 数据文件 ###
+/data/
